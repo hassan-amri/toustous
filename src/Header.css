@@ -1,0 +1,36 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 100px 100px 100px;
+    padding-top: 10px;
+    
+    
+    /* position: absolute;
+    top: 20px; */
+    
+    color: white;
+    /* padding-top: 20px; */
+    /* margin: 0 100px; */
+    
+   
+    
+
+}
+header ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 40vw;
+    /* width: 600px; */
+
+}
+header ul li{
+    list-style: none;
+    font-family: myfont;
+}
+header>img{
+    /* transform: scale(0.08); */
+    width: 150px;
+    
+}
